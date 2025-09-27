@@ -1,5 +1,7 @@
 # War Prediction Neural Network
 
+This repository contains supplemental material for my paper, WarGames and Dot Products.
+
 This is the MATLAB code for my war prediction neural network. It was created for Honors at the College of San Mateo, an honors project with a foundation course in MATH 270 (Linear Algebra).
 
 The neural network was made from scratch by Niko Kompella in Fall 2025.
