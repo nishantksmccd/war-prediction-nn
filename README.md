@@ -25,13 +25,13 @@ war-predicion-nn/
 │   └── plot_xor_boundary.m
 │
 ├── data/                  (data sets for war prediction)
-│   └── all training data
+│   └── all training input data
 │
 ├── results/               (results for the paper, covering XOR and various training eras)
 │   └── trained model outputs
 │
 ├── figures/               (figures for the paper)
-│   └── xor_decision_boundary.png
+│   └── various .png and .fig files
 │
 └── README.md
 ```
