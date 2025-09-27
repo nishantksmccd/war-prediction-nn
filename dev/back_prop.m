@@ -1,4 +1,4 @@
-function [w1, w2] = back_prop(x, y, w1, w2, alpha) % back propaagation
+function [w1, w2] = back_prop(x, y, w1, w2, alpha) % back propagation
 
     % hidden layer
 	z1 = w1 * x;

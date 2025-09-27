@@ -16,10 +16,9 @@ if size(x, 1) ~= size(y, 1)
     error('The number of examples in x and y must be the same.');
 end
 
-[acc, losss, w1_trained, w2_trained] = train(x, y, w1, w2, alpha, epochs);
-
+[acc, losses, w1_trained, w2_trained] = train(x, y, w1, w2, alpha, epochs);
 figure;
-plot(1:epochs, losss);
+plot(1:epochs, losses);
 title('Training Loss per Epoch');
 xlabel('Epoch');
 ylabel('Loss');

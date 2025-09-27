@@ -1,2 +1,4 @@
 function s = loss(out, Y) % calculate loss using mean squared error
-    s = mse(out, Y);
+    out_col = out(:);
+    Y_col = Y(:);
+    s = mean((out_col - Y_col).^2);

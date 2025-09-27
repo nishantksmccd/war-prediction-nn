@@ -3,4 +3,6 @@ function a2 = feedforward(x, w1, w2) % forward propagation
     a1 = sigmoid(z1);
     z2 = w2 * a1;
     a2 = sigmoid(z2);
+    disp("Size of a2:");
     disp(size(a2));
+    disp("end size a2");
