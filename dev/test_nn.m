@@ -1,3 +1,5 @@
+% dummy test function to make sure NN works as intended
+
 clear;
 clc;
 
