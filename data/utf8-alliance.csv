@@ -1,0 +1,54 @@
+﻿Country,Greatest Ally,Other Ally 1,Other Ally 2,Other Ally 3,Other Ally 4
+United States,United Kingdom,Canada,Japan,South Korea,Israel
+China,Russia,Pakistan,North Korea,Iran,Saudi Arabia
+Russia,China,Belarus,Armenia,Serbia,Kazakhstan
+India,Russia,United States,Israel,Japan,France
+Pakistan,China,Turkey,Saudi Arabia,United States,UAE
+France,Germany,United Kingdom,Canada,Italy,Israel
+United Kingdom,United States,France,Canada,Australia,Israel
+Germany,France,United Kingdom,Poland,Italy,Canada
+Japan,United States,South Korea,Australia,India,Taiwan
+South Korea,United States,Japan,Taiwan,Australia,India
+North Korea,China,Russia,Iran,Syria,Pakistan
+Israel,United States,India,France,Germany,United Kingdom
+Iran,China,Russia,North Korea,Syria,Pakistan
+Saudi Arabia,United States,Pakistan,UAE,Egypt,Turkey
+Turkey,Pakistan,Azerbaijan,Saudi Arabia,United States,Qatar
+Egypt,Saudi Arabia,United States,Jordan,France,Turkey
+Brazil,Argentina,Mexico,Chile,Colombia,Peru
+Argentina,Brazil,Chile,Uruguay,Paraguay,Bolivia
+Mexico,United States,Brazil,Argentina,Colombia,Chile
+Canada,United States,United Kingdom,France,Germany,Australia
+Australia,United States,Japan,South Korea,United Kingdom,Canada
+South Africa,Nigeria,Kenya,Egypt,Ethiopia,Brazil
+Nigeria,South Africa,Kenya,Egypt,Ghana,Morocco
+Kenya,South Africa,Nigeria,Ethiopia,Egypt,Uganda
+Ethiopia,Kenya,South Africa,Egypt,Sudan,Nigeria
+Sudan,Egypt,Saudi Arabia,UAE,Ethiopia,South Africa
+Ukraine,Poland,Germany,United States,United Kingdom,Canada
+Belarus,Russia,Kazakhstan,Armenia,Serbia,China
+Poland,Ukraine,Germany,United States,United Kingdom,France
+Czechia,Slovakia,Germany,Poland,Austria,Hungary
+Slovakia,Czechia,Hungary,Poland,Austria,Germany
+Hungary,Slovakia,Czechia,Poland,Germany,Romania
+Romania,Bulgaria,Hungary,Ukraine,Poland,France
+Bulgaria,Romania,Serbia,Greece,Turkey,Hungary
+Serbia,Russia,Armenia,Greece,Bulgaria,Belarus
+Croatia,Slovenia,Hungary,Germany,Italy,Austria
+Slovenia,Croatia,Austria,Italy,Hungary,Germany
+Bosnia & Herzegovina,Croatia,Serbia,Slovenia,Italy,Germany
+Montenegro,Serbia,Croatia,Bosnia & Herzegovina,Slovenia,Russia
+Kosovo,Albania,United States,Turkey,Germany,France
+Albania,Kosovo,United States,Italy,Turkey,Greece
+North Macedonia,Albania,Greece,Serbia,Bulgaria,Italy
+Moldova,Romania,Ukraine,Poland,Germany,France
+Armenia,Russia,Belarus,Serbia,Kazakhstan,Iran
+Azerbaijan,Turkey,Pakistan,Ukraine,Saudi Arabia,Israel
+Georgia,Ukraine,United States,Poland,Turkey,Germany
+Turkmenistan,Russia,Kazakhstan,Uzbekistan,China,Iran
+Uzbekistan,Russia,Kazakhstan,Turkmenistan,China,Kyrgyzstan
+Kyrgyzstan,Kazakhstan,Uzbekistan,Russia,China,Tajikistan
+Tajikistan,Uzbekistan,Kazakhstan,Russia,China,Kyrgyzstan
+Kazakhstan,Russia,Uzbekistan,Kyrgyzstan,Turkmenistan,China
+Taiwan,United States,Japan,South Korea,Australia,Philippines
+Palestine,Egypt,Saudi Arabia,Turkey,Iran,Jordan
