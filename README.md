@@ -1,6 +1,6 @@
 # War Prediction Neural Network
 
-This repository contains supplemental material for my paper, WarGames and Dot Products.
+This repository contains supplemental material for my paper, War Games and Dot Products.
 
 This is the MATLAB code for my war prediction neural network. It was created for Honors at the College of San Mateo, an honors project with a foundation course in MATH 270 (Linear Algebra).
 
@@ -12,6 +12,7 @@ This is the layout of the repo:
 war-predicion-nn/
 │
 ├── nn/                    (neural network engine code)
+│   ├── main.m             (main file for training neural network)
 │   ├── feedforward.m
 │   ├── back_prop.m
 │   ├── sigmoid.m
@@ -38,6 +39,8 @@ war-predicion-nn/
 │   └── trained model outputs
 │
 ├── figures/               (figures for the paper)
+│   ├── xor-db.fig         (decision boundary for XOR in MATLAB format)
+│   ├── xor-db.png         (decision boundary for XOR in .PNG format)
 │   └── various .png and .fig files
 │
 └── README.md
