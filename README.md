@@ -32,8 +32,7 @@ war-predicion-nn/
 │   │   ├── utf8-war.csv
 |   |   ├── utf8-country_data.csv
 │   │   └── utf8-alliance.csv
-|   ├── formatter.py       (useable python script to format data)
-│   └── formatter.ipynb    (interactive python notebook used to format data)
+│   └── evensplice.ipynb   (interactive python notebook used to format data)
 │
 ├── results/               (results for the paper, covering XOR and various training eras)
 │   └── trained model outputs
