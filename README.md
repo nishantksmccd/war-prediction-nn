@@ -11,36 +11,35 @@ This is the layout of the repo:
 ```
 war-predicion-nn/
 │
-├── nn/                    (neural network engine code)
-│   ├── main.m             (main file for training neural network)
+├── nn/                      (neural network engine code)
+│   ├── main.m               (main file for training neural network)
 │   ├── feedforward.m
 │   ├── back_prop.m
 │   ├── sigmoid.m
 │   ├── generate_weights.m
 │   ├── loss.m
 │   ├── train.m
-│   └── test_nn.m          (test script for training loop)
+│   └── test_nn.m            (test script for training loop)
 │
-├── xor-test/              (xor validity test)
+├── xor-test/                (xor validity test)
 │   ├── xor_data.m
 │   ├── train_xor.m
 │   ├── test_xor.m
 │   └── plot_xor_boundary.m
 │
 ├── data/
-│   ├── content/           (contains alliance, war history, and country data for python script)
+│   ├── content/             (contains alliance, war history, and country data for python script)
 │   │   ├── utf8-war.csv
 |   |   ├── utf8-country_data.csv
 │   │   └── utf8-alliance.csv
-│   └── evensplice.ipynb   (interactive python notebook used to format data)
+│   └── evensplice.ipynb     (interactive python notebook used to format data)
 │
-├── results/               (results for the paper, covering XOR and various training eras)
+├── results/                 (results for the paper, covering XOR and various training eras)
 │   └── trained model outputs
 │
-├── figures/               (figures for the paper)
-│   ├── xor-db.fig         (decision boundary for XOR in MATLAB format)
-│   ├── xor-db.png         (decision boundary for XOR in .PNG format)
-│   └── various .png and .fig files
+├── figures/                 (figures for the paper)
+│   ├── xor-db.fig           (decision boundary for XOR in MATLAB format)
+│   └── confusion-matrix.png (final confusion matrix in .PNG format)
 │
 └── README.md
 ```
