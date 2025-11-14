@@ -17,9 +17,12 @@ war-predicion-nn/
 │   ├── back_prop.m
 │   ├── sigmoid.m
 │   ├── generate_weights.m
+|   ├── analyze_svd.m        (for analyzing SVD values generated in training)
 │   ├── loss.m
+|   ├── focal_loss.m
+|   ├── bce_loss.m           (alternative loss functions)
 │   ├── train.m
-│   └── test_nn.m            (test script for training loop)
+|   └── main_test.m          (testing script for neural network)
 │
 ├── xor-test/                (xor validity test)
 │   ├── xor_data.m
@@ -30,12 +33,10 @@ war-predicion-nn/
 ├── data/
 │   ├── content/             (contains alliance, war history, and country data for python script)
 │   │   ├── utf8-war.csv
-|   |   ├── utf8-country_data.csv
+|   |   ├── utf8-country_data_new.csv
 │   │   └── utf8-alliance.csv
 │   └── evensplice.ipynb     (interactive python notebook used to format data)
 │
-├── results/                 (results for the paper, covering XOR and various training eras)
-│   └── trained model outputs
 │
 ├── figures/                 (figures for the paper)
 │   ├── xor-db.fig           (decision boundary for XOR in MATLAB format)
