@@ -1,0 +1,54 @@
+Country,GDP per Capita (USD),Military Expenditure (Percent of GDP),Political Stability (GPI Rank),Nuclear Armed,Recent Conflict (2003–2025),Economic Ideology,Religion,Land Disputes,Land Disputes 2,Ethnic Majority,Religious Majority,Inflation Rate (%),Trade Openness (% of GDP),Debt-to-GDP (%),Active Personnel (per 1k pop),Global Firepower Rank,Democracy Index (0-10),Corruption Index (0-100),Bordering Countries Count,Area (1000 km²),Population (millions),Urbanization (%),UN Voting Alignment (US=1),Treaty Participation,History of Interstate War (count),Terrorism Index (0-10)
+United States,76000,3.7,129,Yes,Yes,Market,Christianity,None,None,White/Caucasian,Christianity,3.1,27,123,4.5,1,8.4,70,2,9834,331,83,0.95,62,5,4.2
+China,12000,1.9,118,Yes,Yes,State-controlled,Buddhism/Confucianism,India,Taiwan,Han,Buddhism,2.3,38,66,3.0,3,3.1,40,14,9600,1412,64,0.25,54,7,5.3
+Russia,11000,3.9,146,Yes,Yes,Mixed,Christianity,Ukraine,Georgia,Slavic,Orthodox,5.4,46,19,5.2,2,2.3,30,16,17098,144,74,0.20,47,10,6.8
+India,2300,2.4,135,Yes,Yes,Mixed,Hinduism,Pakistan,China,Indo-Aryan,Hinduism,5.8,20,84,2.9,4,7.0,40,6,3287,1393,35,0.55,52,9,7.1
+Pakistan,1600,4.0,151,Yes,Yes,Mixed,Islam,India,None,Punjabi,Islam,8.2,28,77,4.1,7,4.3,29,4,881,231,36,0.45,48,11,8.0
+France,41000,2.3,66,Yes,Yes,Market,Christianity,None,None,French,Christianity,4.0,63,112,2.1,7,8.9,73,6,551,67,65,0.90,61,3,3.0
+United Kingdom,46000,2.1,43,Yes,Yes,Market,Christianity,None,None,English,Christianity,3.0,68,103,2.4,5,8.5,75,1,243,67,67,0.93,60,2,2.5
+Germany,55000,1.4,16,No,No,Market,Christianity,None,None,German,Christianity,3.4,88,59,1.9,8,8.8,80,9,357,83,83,0.91,63,2,1.9
+Japan,41000,1.0,9,No,No,Market,Shinto/Buddhism,None,None,Japanese,Shinto/Buddhism,1.8,36,262,1.2,6,8.1,73,0,378,125,92,0.88,58,1,1.7
+South Korea,32000,2.6,63,No,No,Market,Christianity/Buddhism,None,None,Korean,Christianity/Buddhism,2.0,84,44,1.1,10,8.0,61,2,100,52,83,0.85,55,1,2.0
+North Korea,600,20.0,160,Yes,Yes,State-controlled,Juche,South Korea,None,Korean,Atheist/State,55.0,5,NaN,50.0,11,1.0,85,1,120,25,61,0.10,12,15,9.5
+Israel,43000,5.5,87,Yes,Yes,Market,Judaism,Palestine,None,Jewish,Judaism,2.5,64,72,6.5,18,7.9,62,3,21,9,74,0.60,49,6,4.8
+Iran,5800,2.2,147,No,Yes,State-controlled,Islam,Armenia,None,Persian,Islam,35.0,35,48,2.8,17,3.2,40,7,1648,85,86,0.15,41,9,7.9
+Saudi Arabia,23000,8.0,121,No,No,State-controlled,Islam,Qatar,None,Arab,Islam,2.4,69,33,2.6,22,1.9,45,6,2149,35,35,0.30,40,2,5.6
+Turkey,10500,2.8,110,No,Yes,Mixed,Islam,Greece,Syria,Turk,Islam,15.0,54,39,2.5,12,5.3,45,8,783,85,85,0.45,43,8,6.2
+Egypt,3500,1.3,116,No,Yes,State-influenced,Islam,Israel,Libya,Arab,Islam,19.0,32,90,1.8,14,3.1,33,5,1010,104,43,0.35,39,6,6.0
+Brazil,9000,1.5,116,No,Yes,Mixed,Christianity,None,None,White/Mixed,Christianity,3.7,26,78,1.2,13,6.4,40,10,8516,214,87,0.40,55,6,6.2
+Argentina,9000,0.9,118,No,Yes,Mixed,Christianity,Chile,None,White/Mestizo,Christianity,39.0,32,86,0.8,20,6.8,45,5,2780,45,92,0.38,50,6,6.5
+Mexico,10000,0.7,122,No,Yes,Mixed,Christianity,United States,Guatemala,Mestizo,Christianity,5.5,75,61,0.9,15,6.2,31,3,1964,128,84,0.50,48,6,6.7
+Canada,46000,1.4,32,Yes,No,Market,Christianity,None,None,White,Christianity,2.8,64,114,0.6,23,9.1,81,1,9985,38,82,0.88,59,2,2.0
+Australia,57000,2.0,13,No,No,Market,Christianity,None,None,White,Christianity,3.5,45,60,0.9,24,9.0,77,3,7692,26,86,0.92,58,2,2.2
+South Africa,6000,1.1,121,No,Yes,Mixed,Christianity,None,None,Black African,Christianity,4.5,61,70,1.8,31,6.0,44,6,1221,60,66,0.35,43,5,6.9
+Nigeria,2500,0.6,150,No,Yes,Mixed,Islam/Christianity, Cameroon,None,Hausa,Islam/Christianity,18.2,41,35,1.5,28,4.2,25,5,923,216,52,0.30,38,8,7.8
+Kenya,2200,0.9,140,No,Yes,Mixed,Christianity,None,None,Kikuyu,Christianity,5.4,55,72,1.2,59,3.6,31,6,580,54,28,0.28,32,6,7.4
+Ethiopia,900,0.6,149,No,Yes,Mixed,Christianity/Islam,Somalia,None,Oromo,Christianity/Islam,20.0,26,69,0.9,63,3.1,27,6,1104,123,21,0.15,25,8,8.0
+Sudan,700,1.5,155,No,Yes,Mixed,Islam,South Sudan,Egypt,Arab/African,Islam,240.0,23,NaN,1.6,64,1.8,18,9,1886,46,46,0.12,15,7,9.0
+Ukraine,3800,3.5,160,No,Yes,Mixed,Christianity,Russia,Poland,Slavic,Christianity,8.5,64,58,3.2,20,4.2,35,7,603,44,44,0.18,33,10,8.7
+Belarus,6400,1.9,152,No,Yes,Mixed,Christianity,Poland,Ukraine,Slavic,Christianity,9.6,58,41,1.0,60,2.1,38,3,207,9.5,47,0.22,28,8,7.9
+Poland,18000,2.0,48,No,No,Market,Christianity,None,None,Polish,Christianity,7.8,79,51,1.6,25,7.5,60,7,313,38,60,0.60,49,3,3.8
+Czechia,23000,1.3,38,No,No,Market,Christianity,None,None,Czech,Christianity,4.0,88,37,0.9,65,8.2,58,4,79,11,11,0.62,37,2,2.1
+Slovakia,19000,1.2,42,No,No,Market,Christianity,None,None,Slovak,Christianity,2.5,76,48,0.6,72,7.8,56,4,49,49,5.5,0.60,36,2,2.0
+Hungary,17000,1.4,47,No,No,Mixed,Christianity,None,None,Hungarian,Christianity,3.4,95,76,0.6,70,6.9,44,7,93,10,9.6,0.58,34,2,2.6
+Romania,14000,2.0,74,No,No,Mixed,Christianity,None,None,Romanian,Christianity,7.7,77,49,0.9,52,6.3,45,5,238,24,19,0.55,30,4,3.9
+Bulgaria,10000,1.9,82,No,No,Mixed,Christianity,None,None,Bulgarian,Christianity,2.8,79,25,0.7,83,6.1,44,3,111,7,7.0,0.52,28,3,3.5
+Serbia,7600,2.0,93,No,Yes,Mixed,Christianity,Kosovo,None,Serb,Orthodox,6.1,57,53,0.9,78,6.5,38,5,774,7,6.7,0.40,27,6,4.9
+Croatia,14000,1.7,74,No,No,Market,Christianity,None,None,Croat,Christianity,1.8,92,80,0.5,84,8.0,47,3,56,6,3.9,0.65,26,1,2.2
+Slovenia,25000,1.0,64,No,No,Market,Christianity,None,None,Slovene,Christianity,1.5,100,66,0.3,88,8.5,61,3,20,20,49,0.70,24,1,1.7
+Bosnia & Herzegovina,5500,1.2,105,No,Yes,Mixed,Islam/Christianity,Serbia,Croatia,Bosniak,Islam/Christianity,1.6,65,41,0.8,96,4.8,33,3,51,10,38,0.25,22,3,5.8
+Montenegro,8700,1.0,99,No,No,Market,Christianity,Serbia,None,Montenegrin,Orthodox,2.7,83,103,0.1,97,6.9,40,3,14,0.6,0.41,0.55,20,1,2.9
+Kosovo,4600,1.5,140,No,Yes,Mixed,Islam/Christianity,Serbia,None,Albanian,Islam/Christianity,2.9,72,NaN,0.5,98,3.2,46,3,10,1.8,41,0.20,18,4,6.4
+Albania,5600,1.1,101,No,No,Market,Islam/Christianity,Greece,None,Albanian,Islam/Christianity,2.6,86,70,0.7,99,6.4,47,4,28,28,62,0.42,17,2,3.8
+North Macedonia,5200,1.2,102,No,No,Market,Christianity,Serbia,Greece,Macedonian,Christianity,1.8,66,59,0.4,100,5.8,46,3,25,25,58,0.40,16,1,3.0
+Moldova,4200,0.9,145,No,Yes,Mixed,Christianity,Transnistria,Romania,Moldovan,Christianity,10.2,57,28,0.3,103,3.6,39,3,33,0.9,2.6,0.18,15,6,7.5
+Armenia,4800,2.1,133,No,Yes,Mixed,Christianity,Azerbaijan,None,Armenian,Christianity,4.1,39,63,3.0,104,4.6,42,3,29,30,3.0,0.63,14,6,6.9
+Azerbaijan,6000,3.5,132,No,Yes,Mixed,Islam,Armenia,Russia,Azeri,Islam,6.0,61,49,2.7,105,3.9,46,3,86,101,10.1,0.52,13,7,7.3
+Georgia,5000,1.9,124,No,Yes,Market,Christianity,Russia,Abkhazia,Georgian,Christianity,4.8,54,51,1.2,106,5.4,44,3,69,4.5,3.7,0.40,12,5,6.1
+Turkmenistan,7000,1.0,150,No,No,State-controlled,Islam,Uzbekistan,None,Turkmen,Islam,10.0,8,18,1.1,107,1.5,85,4,488,6.2,6.0,0.10,11,1,5.0
+Uzbekistan,2100,2.0,142,No,No,State-controlled,Islam,Turkmenistan,None,Uzbek,Islam,9.5,30,37,1.2,108,3.8,52,5,448,36,36,0.22,10,0,6.2
+Kyrgyzstan,1200,1.2,140,No,Yes,Transitional,Islam,China,Tajikistan,Kyrgyz,Islam,12.0,52,57,0.7,109,3.0,58,4,200,20,6.6,0.38,9,2,6.7
+Tajikistan,1000,1.8,148,No,Yes,Transitional,Islam,China,Afghanistan,Tajik,Tajik,11.5,37,47,0.6,110,2.6,56,4,143,9.5,10.0,0.27,8,5,7.8
+Kazakhstan,10000,1.0,118,No,No,State-influenced,Islam,Russia,China,Kazakh,Islam,7.5,46,19,0.9,27,4.5,36,3,2725,19,19,0.58,11,2,5.2
+Taiwan,32000,2.7,33,No,No,Market,Buddhism/Christianity,China,None,Hoklo/Buna,Buddhism/Christianity,0.7,130,38,0.6,30,8.6,26,0,36,23,23,0.15,45,0,1.8
+Palestine,1500,0.6,158,No,Yes,Mixed,Islam/Christianity,Israel,None,Palestinian,Islam,25.0,15,NaN,0.2,111,2.1,81,2,6.2,5.2,75,0.10,6,12,8.9
