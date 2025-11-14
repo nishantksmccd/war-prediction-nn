@@ -5,7 +5,6 @@ function [w1, w2] = back_prop(x, y, w1, w2, alpha) % back propagation
 	a1 = sigmoid(z1); 
 	z2 = w2 * a1;
 	a2 = sigmoid(z2);
-    disp(size(z2))
 
     % error in output layer
     d2 = a2 - y;

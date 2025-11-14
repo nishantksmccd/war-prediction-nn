@@ -18,16 +18,12 @@ function [acc, losses, w1, w2] = train(x, Y, w1, w2, alpha, epoch)
         l = [];
         for i = 1:size(x, 1)
             out = feedforward(x(i), w1, w2);
-            % debug script
-            disp(i)
-            disp(size(Y))
-            disp(Y(i, :))
-            % end debug script
-            l = [l, loss(out, Y(i, :))];
+            l = [l, bce_loss(out, Y(i, :))];
             [w1, w2] = back_prop(x(i, :)', Y(round(i), :)', w1, w2, alpha);
         end
+        y_hat = feedforward(x(i, :), w1, w2) >= 0.5;  % threshold 0.5
+        epoch_acc = mean(y_hat == Y(i, :)) * 100;
         epoch_loss = sum(l) / length(x);
-        epoch_acc = (1 - epoch_loss) * 100;
 
         % visual separator
         fprintf('epochs: %d ======== acc: %.2f%%\n', j, epoch_acc);
@@ -35,4 +31,3 @@ function [acc, losses, w1, w2] = train(x, Y, w1, w2, alpha, epoch)
         acc = [acc, epoch_acc];
         losses = [losses, epoch_loss];
     end
-end
